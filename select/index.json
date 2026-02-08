@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "あっちむいて - Attchimuite",
+  "base_artist": "Swimy",
+  "createdAt": "2026-02-08T11:08:52.308981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あっちむいて",
+      "artist": "Swimy",
+      "has_synced": true,
+      "path": "select/01_あっちむいて_Swimy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あっちむいて",
+      "artist": "Swimy",
+      "has_synced": true,
+      "path": "select/02_あっちむいて_Swimy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あっちむいて - Attchimuite",
+      "artist": "Swimy",
+      "has_synced": true,
+      "path": "select/03_あっちむいて_-_Attchimuite_Swimy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あっちむいて（アニメver.）",
+      "artist": "Swimy",
+      "has_synced": false,
+      "path": "select/04_あっちむいて(アニメver.)_Swimy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あっちむいて",
+      "artist": "Swimy",
+      "has_synced": false,
+      "path": "select/pl_01_あっちむいて_Swimy.txt"
+    }
+  ]
+}
